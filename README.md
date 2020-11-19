@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/vinicius-pereira-098959180/)
 
 ### Sobre mim
-🇧🇷  Nascido em Florianópolis, Brazil <br><br>
+🇧🇷  Nascido em Florianópolis, Brasil <br><br>
 💻 Estudante de Análise e Desenvolvimento de Sistemas - 4° Fase.<br> 
 ⚡ Entusiasta das melhores tecnologias web.<br>
 💼 Estagiário de desenvolvimento na Dígitro.<br>
