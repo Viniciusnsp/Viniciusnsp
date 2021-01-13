@@ -5,7 +5,7 @@
 
 ### Sobre mim
 🇧🇷  Nascido em Florianópolis, Brasil <br><br>
-💻 Estudante de Análise e Desenvolvimento de Sistemas - 4° Fase.<br> 
+💻 Estudante de Análise e Desenvolvimento de Sistemas - 5° Fase.<br> 
 ⚡ Entusiasta das melhores tecnologias web.<br>
 💼 Estagiário de desenvolvimento na Dígitro.<br>
 🚀 JavaScript - Node.js - React - React Native.
