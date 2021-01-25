@@ -8,5 +8,5 @@
 💻 Estudante de Análise e Desenvolvimento de Sistemas - 5° Fase.<br> 
 ⚡ Entusiasta das melhores tecnologias web.<br>
 💼 Estagiário de desenvolvimento na Dígitro.<br>
-🚀 JavaScript - Node.js - React - React Native.
+🚀 JavaScript - Node.js - React.
 
